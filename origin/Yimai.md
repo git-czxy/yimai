@@ -70,4 +70,4 @@ Let it slowly grow into its own shape through real questions, judgments, revisio
 - **Nature of this text:** First public essay on the idea; not a raw conversation record.
 - **Ideas and choices:** Based on the user's explicitly accepted direction for Yimai and its public boundaries; the final decision about publication remains with the user.
 - **AI contribution:** AI organized the structure, proposed formulations, and prepared a privacy-conscious draft from the preceding exploration.
-- **Current status:** Awaiting the user's final pre-publication risk review; not yet committed to GitHub.
+- **Current status:** Published and committed to GitHub; the wording may continue to be revised as new understanding emerges.
